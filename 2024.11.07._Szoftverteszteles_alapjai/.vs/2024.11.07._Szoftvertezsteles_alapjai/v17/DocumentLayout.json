@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.11.07._Szoftverteszteles_alapjai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{871BBB0F-3DDB-4F24-BC03-6BB1FE501D6E}|2024.11.07._Szoftvertezsteles_alapjai\\2024.11.07._Szoftvertezsteles_alapjai.csproj|h:\\2024-25\\szoftvertesztel\u00E9s\\2024.11.07._szoftverteszteles_alapjai\\2024.11.07._szoftvertezsteles_alapjai\\szamelmelet_teszt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871BBB0F-3DDB-4F24-BC03-6BB1FE501D6E}|2024.11.07._Szoftvertezsteles_alapjai\\2024.11.07._Szoftvertezsteles_alapjai.csproj|solutionrelative:2024.11.07._szoftvertezsteles_alapjai\\szamelmelet_teszt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871BBB0F-3DDB-4F24-BC03-6BB1FE501D6E}|2024.11.07._Szoftvertezsteles_alapjai\\2024.11.07._Szoftvertezsteles_alapjai.csproj|H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.11.07._Szoftverteszteles_alapjai\\2024.11.07._szoftvertezsteles_alapjai\\szamelmelet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871BBB0F-3DDB-4F24-BC03-6BB1FE501D6E}|2024.11.07._Szoftvertezsteles_alapjai\\2024.11.07._Szoftvertezsteles_alapjai.csproj|solutionrelative:2024.11.07._szoftvertezsteles_alapjai\\szamelmelet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871BBB0F-3DDB-4F24-BC03-6BB1FE501D6E}|2024.11.07._Szoftvertezsteles_alapjai\\2024.11.07._Szoftvertezsteles_alapjai.csproj|H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.11.07._Szoftverteszteles_alapjai\\2024.11.07._szoftvertezsteles_alapjai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871BBB0F-3DDB-4F24-BC03-6BB1FE501D6E}|2024.11.07._Szoftvertezsteles_alapjai\\2024.11.07._Szoftvertezsteles_alapjai.csproj|solutionrelative:2024.11.07._szoftvertezsteles_alapjai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "szamelmelet_teszt.cs",
+              "DocumentMoniker": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.11.07._Szoftverteszteles_alapjai\\2024.11.07._Szoftvertezsteles_alapjai\\szamelmelet_teszt.cs",
+              "RelativeDocumentMoniker": "2024.11.07._Szoftvertezsteles_alapjai\\szamelmelet_teszt.cs",
+              "ToolTip": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.11.07._Szoftverteszteles_alapjai\\2024.11.07._Szoftvertezsteles_alapjai\\szamelmelet_teszt.cs",
+              "RelativeToolTip": "2024.11.07._Szoftvertezsteles_alapjai\\szamelmelet_teszt.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:08:00.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "szamelmelet.cs",
+              "DocumentMoniker": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.11.07._Szoftverteszteles_alapjai\\2024.11.07._Szoftvertezsteles_alapjai\\szamelmelet.cs",
+              "RelativeDocumentMoniker": "2024.11.07._Szoftvertezsteles_alapjai\\szamelmelet.cs",
+              "ToolTip": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.11.07._Szoftverteszteles_alapjai\\2024.11.07._Szoftvertezsteles_alapjai\\szamelmelet.cs",
+              "RelativeToolTip": "2024.11.07._Szoftvertezsteles_alapjai\\szamelmelet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:07:39.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.11.07._Szoftverteszteles_alapjai\\2024.11.07._Szoftvertezsteles_alapjai\\Program.cs",
+              "RelativeDocumentMoniker": "2024.11.07._Szoftvertezsteles_alapjai\\Program.cs",
+              "ToolTip": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.11.07._Szoftverteszteles_alapjai\\2024.11.07._Szoftvertezsteles_alapjai\\Program.cs",
+              "RelativeToolTip": "2024.11.07._Szoftvertezsteles_alapjai\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:02:41.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
