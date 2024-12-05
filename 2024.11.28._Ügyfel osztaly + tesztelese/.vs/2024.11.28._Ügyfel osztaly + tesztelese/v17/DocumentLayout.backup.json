@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C264E85C-8609-4122-95DA-763B02AA4A12}|2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\2024.11.28._\u00DCgyfel osztaly \u002B tesztelese.csproj|h:\\2024-25\\szoftvertesztel\u00E9s\\2024.11.28._\u00FCgyfel osztaly \u002B tesztelese\\2024.11.28._\u00FCgyfel osztaly \u002B tesztelese\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C264E85C-8609-4122-95DA-763B02AA4A12}|2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\2024.11.28._\u00DCgyfel osztaly \u002B tesztelese.csproj|solutionrelative:2024.11.28._\u00FCgyfel osztaly \u002B tesztelese\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C264E85C-8609-4122-95DA-763B02AA4A12}|2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\2024.11.28._\u00DCgyfel osztaly \u002B tesztelese.csproj|h:\\2024-25\\szoftvertesztel\u00E9s\\2024.11.28._\u00FCgyfel osztaly \u002B tesztelese\\2024.11.28._\u00FCgyfel osztaly \u002B tesztelese\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C264E85C-8609-4122-95DA-763B02AA4A12}|2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\2024.11.28._\u00DCgyfel osztaly \u002B tesztelese.csproj|solutionrelative:2024.11.28._\u00FCgyfel osztaly \u002B tesztelese\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\Customer.cs",
+              "RelativeDocumentMoniker": "2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\Customer.cs",
+              "ToolTip": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\Customer.cs",
+              "RelativeToolTip": "2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\Customer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:57:00.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\Program.cs",
               "RelativeDocumentMoniker": "2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\Program.cs",
               "ToolTip": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\Program.cs",
               "RelativeToolTip": "2024.11.28._\u00DCgyfel osztaly \u002B tesztelese\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T11:56:24.955Z",
               "EditorCaption": ""
