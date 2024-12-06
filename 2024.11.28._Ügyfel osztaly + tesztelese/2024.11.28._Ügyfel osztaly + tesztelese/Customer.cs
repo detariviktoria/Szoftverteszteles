@@ -14,6 +14,8 @@ namespace _2024._11._28._Ügyfel_osztaly___tesztelese
     {
         public string firstName, lastName, birthDate, email;
 
+        //public DateTime birthDate;
+
 
         public Customer(string firstName, string lastName, string birthDate, string email)
         {
@@ -29,7 +31,7 @@ namespace _2024._11._28._Ügyfel_osztaly___tesztelese
         /// <param name="birthDate"></param>
         public int GetAge()
         {
-            string date = "2024.11.28.";
+            string date = "2024.12.06";
             string[] d = date.Split('.');
 
             
@@ -120,19 +122,12 @@ namespace _2024._11._28._Ügyfel_osztaly___tesztelese
         {
             string[] e = szoveg.Split('@');
             int i = 0;
-            while(i<e.Length && !(szoveg[i] >= 48 && szoveg[i] <= 57))
-                {
+            while (i < e[1].Length && szoveg[i] >= 48 && szoveg[i] <= 57) 
                 i++;
-                if(i<e.Length)
+            if (i < e[1].Length)
                 {
                     return false;
                 }
-                else
-                {
-                    return true;
-                }
-
-            }
             return true;
 
         }
@@ -140,16 +135,13 @@ namespace _2024._11._28._Ügyfel_osztaly___tesztelese
         public bool EmailValidalas(string szoveg)
         {
             int i = 0;
-            while (i < szoveg.Length && !(IsLetterOrDigit(szoveg[i]))) {
+            while (i < szoveg.Length && IsLetterOrDigit(szoveg[i]))
                 i++;
-                if (i < szoveg.Length)
-                {
-                    return false;
-                }
-                
+            if (i < szoveg.Length)
+            {
+                return false;
             }
             return true;
-
         }
 
         public bool KukacESPont(string szoveg)
