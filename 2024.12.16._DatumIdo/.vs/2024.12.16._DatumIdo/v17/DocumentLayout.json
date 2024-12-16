@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.12.16._DatumIdo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D39ABD4-E5B6-4B8F-A806-1C7A3F5C7600}|2024.12.16._DatumIdo\\2024.12.16._DatumIdo.csproj|h:\\2024-25\\szoftvertesztel\u00E9s\\2024.12.16._datumido\\2024.12.16._datumido\\datumido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D39ABD4-E5B6-4B8F-A806-1C7A3F5C7600}|2024.12.16._DatumIdo\\2024.12.16._DatumIdo.csproj|solutionrelative:2024.12.16._datumido\\datumido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D39ABD4-E5B6-4B8F-A806-1C7A3F5C7600}|2024.12.16._DatumIdo\\2024.12.16._DatumIdo.csproj|h:\\2024-25\\szoftvertesztel\u00E9s\\2024.12.16._datumido\\2024.12.16._datumido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D39ABD4-E5B6-4B8F-A806-1C7A3F5C7600}|2024.12.16._DatumIdo\\2024.12.16._DatumIdo.csproj|solutionrelative:2024.12.16._datumido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatumIdo.cs",
+              "DocumentMoniker": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.12.16._DatumIdo\\2024.12.16._DatumIdo\\DatumIdo.cs",
+              "RelativeDocumentMoniker": "2024.12.16._DatumIdo\\DatumIdo.cs",
+              "ToolTip": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.12.16._DatumIdo\\2024.12.16._DatumIdo\\DatumIdo.cs",
+              "RelativeToolTip": "2024.12.16._DatumIdo\\DatumIdo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:21:50.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.12.16._DatumIdo\\2024.12.16._DatumIdo\\Program.cs",
+              "RelativeDocumentMoniker": "2024.12.16._DatumIdo\\Program.cs",
+              "ToolTip": "H:\\2024-25\\Szoftvertesztel\u00E9s\\2024.12.16._DatumIdo\\2024.12.16._DatumIdo\\Program.cs",
+              "RelativeToolTip": "2024.12.16._DatumIdo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:20:52.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
