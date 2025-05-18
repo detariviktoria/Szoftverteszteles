@@ -112,11 +112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Suli\\12.osztaly\\Szoftvertesztelés\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj",
+      "projectUniqueName": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj",
       "projectName": "BlackJack_DV",
-      "projectPath": "C:\\Suli\\12.osztaly\\Szoftvertesztelés\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj",
+      "projectPath": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj",
       "packagesPath": "C:\\Users\\detar\\.nuget\\packages\\",
-      "outputPath": "C:\\Suli\\12.osztaly\\Szoftvertesztelés\\BlackJack_DV\\BlackJack_DV\\obj\\",
+      "outputPath": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
