@@ -16,7 +16,7 @@ namespace TesztBlackJack
             public void Setup()
             {
                 // Igazítsd az elérési utat a saját projektedhez!
-                paths = Directory.GetFiles("../../../../Fajlok", "*.txt").ToList();
+                paths = Directory.GetFiles("../../../../Fájlok", "*.txt").ToList();
             }
 
             [TestCase(0, "Blackjack!")]

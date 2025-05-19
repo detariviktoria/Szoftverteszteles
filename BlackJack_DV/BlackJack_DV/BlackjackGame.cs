@@ -25,6 +25,9 @@ namespace BlackJack_DV
             int playerValue = Player.GetValue();
             int bankValue = Bank.GetValue();
 
+            //Mindkettő bust -> Draw
+            if (playerValue > 21 && bankValue > 21)
+                return "Draw";
             // 1. Ha a játékosnak BlackJack-je van, és a banknak nincs
             if (playerHasBlackjack && !bankHasBlackjack)
                 return "Blackjack!";

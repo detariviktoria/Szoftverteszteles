@@ -34,12 +34,13 @@ namespace BlackJack_DV
         public bool IsBlackjack()
         {
             // Pontosan 2 lap, egyik Ász, másik 10/J/Q/K
-            if (Cards.Count != 2) return false;
-            bool hasAce = Cards.Any(card => card.Face == "A");
-            bool hasTenCard = Cards.Any(card =>
-                card.Face == "10" || card.Face == "J" || card.Face == "Q" || card.Face == "K");
+            var cards = this.Cards;
+            if (cards.Count != 2) return false;
+            bool hasAce = cards.Any(c => c.Face == "A");
+            bool hasTenCard = cards.Any(c => c.GetValue() == 10);
             return hasAce && hasTenCard;
         }
+        
 
         public bool IsBust()
         {

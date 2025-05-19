@@ -1,0 +1,15 @@
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\bin\Debug\net8.0\BlackJack_DV.exe
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\bin\Debug\net8.0\BlackJack_DV.deps.json
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\bin\Debug\net8.0\BlackJack_DV.runtimeconfig.json
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\bin\Debug\net8.0\BlackJack_DV.dll
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\bin\Debug\net8.0\BlackJack_DV.pdb
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\obj\Debug\net8.0\BlackJack_DV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\obj\Debug\net8.0\BlackJack_DV.AssemblyInfoInputs.cache
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\obj\Debug\net8.0\BlackJack_DV.AssemblyInfo.cs
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\obj\Debug\net8.0\BlackJack_DV.csproj.CoreCompileInputs.cache
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\obj\Debug\net8.0\BlackJack_DV.sourcelink.json
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\obj\Debug\net8.0\BlackJack_DV.dll
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\obj\Debug\net8.0\refint\BlackJack_DV.dll
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\obj\Debug\net8.0\BlackJack_DV.pdb
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\obj\Debug\net8.0\BlackJack_DV.genruntimeconfig.cache
+C:\Suli\12.osztaly\Szoftverteszteles\BlackJack_DV\BlackJack_DV\obj\Debug\net8.0\ref\BlackJack_DV.dll
