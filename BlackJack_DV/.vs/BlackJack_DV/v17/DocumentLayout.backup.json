@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\",
+  "WorkspaceRootPath": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEEC2196-CD11-4547-90CF-8630E4D0942D}|BlackJack_DV\\BlackJack_DV.csproj|c:\\suli\\12.osztaly\\szoftverteszteles\\blackjack_dv\\blackjack_dv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEEC2196-CD11-4547-90CF-8630E4D0942D}|BlackJack_DV\\BlackJack_DV.csproj|h:\\2024-25\\szoftverteszteles\\blackjack_dv\\blackjack_dv\\blackjackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEC2196-CD11-4547-90CF-8630E4D0942D}|BlackJack_DV\\BlackJack_DV.csproj|solutionrelative:blackjack_dv\\blackjackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF85B9A-3AFB-40B8-B1BE-6D6279CA69E7}|TesztBlackJack\\TesztBlackJack.csproj|h:\\2024-25\\szoftverteszteles\\blackjack_dv\\tesztblackjack\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF85B9A-3AFB-40B8-B1BE-6D6279CA69E7}|TesztBlackJack\\TesztBlackJack.csproj|solutionrelative:tesztblackjack\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEC2196-CD11-4547-90CF-8630E4D0942D}|BlackJack_DV\\BlackJack_DV.csproj|h:\\2024-25\\szoftverteszteles\\blackjack_dv\\blackjack_dv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEEC2196-CD11-4547-90CF-8630E4D0942D}|BlackJack_DV\\BlackJack_DV.csproj|solutionrelative:blackjack_dv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEEC2196-CD11-4547-90CF-8630E4D0942D}|BlackJack_DV\\BlackJack_DV.csproj|c:\\suli\\12.osztaly\\szoftverteszteles\\blackjack_dv\\blackjack_dv\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEEC2196-CD11-4547-90CF-8630E4D0942D}|BlackJack_DV\\BlackJack_DV.csproj|h:\\2024-25\\szoftverteszteles\\blackjack_dv\\blackjack_dv\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEEC2196-CD11-4547-90CF-8630E4D0942D}|BlackJack_DV\\BlackJack_DV.csproj|solutionrelative:blackjack_dv\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEEC2196-CD11-4547-90CF-8630E4D0942D}|BlackJack_DV\\BlackJack_DV.csproj|c:\\suli\\12.osztaly\\szoftverteszteles\\blackjack_dv\\blackjack_dv\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEEC2196-CD11-4547-90CF-8630E4D0942D}|BlackJack_DV\\BlackJack_DV.csproj|h:\\2024-25\\szoftverteszteles\\blackjack_dv\\blackjack_dv\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEEC2196-CD11-4547-90CF-8630E4D0942D}|BlackJack_DV\\BlackJack_DV.csproj|solutionrelative:blackjack_dv\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEEC2196-CD11-4547-90CF-8630E4D0942D}|BlackJack_DV\\BlackJack_DV.csproj|c:\\suli\\12.osztaly\\szoftverteszteles\\blackjack_dv\\blackjack_dv\\blackjackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEEC2196-CD11-4547-90CF-8630E4D0942D}|BlackJack_DV\\BlackJack_DV.csproj|solutionrelative:blackjack_dv\\blackjackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +30,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\TesztBlackJack\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TesztBlackJack\\UnitTest1.cs",
+              "ToolTip": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\TesztBlackJack\\UnitTest1.cs",
+              "RelativeToolTip": "TesztBlackJack\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:15:49.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "BlackjackGame.cs",
-              "DocumentMoniker": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackjackGame.cs",
+              "DocumentMoniker": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackjackGame.cs",
               "RelativeDocumentMoniker": "BlackJack_DV\\BlackjackGame.cs",
-              "ToolTip": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackjackGame.cs",
+              "ToolTip": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackjackGame.cs",
               "RelativeToolTip": "BlackJack_DV\\BlackjackGame.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwDIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T16:50:19.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Hand.cs",
-              "DocumentMoniker": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\Hand.cs",
+              "DocumentMoniker": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\Hand.cs",
               "RelativeDocumentMoniker": "BlackJack_DV\\Hand.cs",
-              "ToolTip": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\Hand.cs",
+              "ToolTip": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\Hand.cs",
               "RelativeToolTip": "BlackJack_DV\\Hand.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAqwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T16:49:17.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T16:49:17.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\Card.cs",
+              "DocumentMoniker": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\Card.cs",
               "RelativeDocumentMoniker": "BlackJack_DV\\Card.cs",
-              "ToolTip": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\Card.cs",
+              "ToolTip": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\Card.cs",
               "RelativeToolTip": "BlackJack_DV\\Card.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T16:47:36.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T16:47:36.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\Program.cs",
+              "DocumentMoniker": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\Program.cs",
               "RelativeDocumentMoniker": "BlackJack_DV\\Program.cs",
-              "ToolTip": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\Program.cs",
+              "ToolTip": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\Program.cs",
               "RelativeToolTip": "BlackJack_DV\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

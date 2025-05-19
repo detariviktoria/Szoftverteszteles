@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj": {}
+    "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj": {}
   },
   "projects": {
-    "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj": {
+    "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj",
+        "projectUniqueName": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj",
         "projectName": "BlackJack_DV",
-        "projectPath": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj",
-        "packagesPath": "C:\\Users\\detari.viktoria\\.nuget\\packages\\",
-        "outputPath": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\obj\\",
+        "projectPath": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj",
+        "packagesPath": "C:\\Users\\detar\\.nuget\\packages\\",
+        "outputPath": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\detari.viktoria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\detar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,9 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -54,13 +53,13 @@
             "Microsoft.DotNet.ILCompiler": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.11, )",
+              "version": "[8.0.15, )",
               "autoReferenced": true
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.11, )",
+              "version": "[8.0.15, )",
               "autoReferenced": true
             }
           },
@@ -78,7 +77,7 @@
           "downloadDependencies": [
             {
               "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.15, 8.0.15]"
             }
           ],
           "frameworkReferences": {
@@ -86,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
