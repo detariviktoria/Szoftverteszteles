@@ -20,13 +20,13 @@ namespace TesztBlackJack
             }
 
             [TestCase(0, "Blackjack!")]
-            [TestCase(1, "Bank")]
-            [TestCase(2, "Player")]
+            [TestCase(1, "Player")]
+            [TestCase(2, "Bank")]
             [TestCase(3, "Draw")]
-            [TestCase(4, "Bank")]
-            [TestCase(5, "Player")]
+            [TestCase(4, "Draw")]
+            [TestCase(5, "Draw")]
             [TestCase(6, "Draw")]
-            [TestCase(7, "Player")]
+            [TestCase(7, "Bank")]
             [TestCase(8, "Bank")]
 
         public void Test(int index, string expected)

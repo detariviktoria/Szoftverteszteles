@@ -10,11 +10,11 @@ namespace BlackJack_DV
     {
         public List<Card> Cards { get; }
 
-        public Hand(IEnumerable<string> faces)
+        public Hand(string[] faces)
         {
             Cards = new List<Card>();
             foreach (var face in faces)
-                Cards.Add(new Card(face));
+                Cards.Add(new Card(face.Trim()));
         }
 
         public int GetValue()
