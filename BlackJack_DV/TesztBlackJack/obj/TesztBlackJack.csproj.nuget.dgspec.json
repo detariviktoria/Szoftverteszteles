@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj": {}
+    "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\TesztBlackJack\\TesztBlackJack.csproj": {}
   },
   "projects": {
-    "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj": {
+    "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\TesztBlackJack\\TesztBlackJack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj",
-        "projectName": "BlackJack_DV",
-        "projectPath": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj",
+        "projectUniqueName": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\TesztBlackJack\\TesztBlackJack.csproj",
+        "projectName": "TesztBlackJack",
+        "projectPath": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\TesztBlackJack\\TesztBlackJack.csproj",
         "packagesPath": "C:\\Users\\detari.viktoria\\.nuget\\packages\\",
-        "outputPath": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\obj\\",
+        "outputPath": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\TesztBlackJack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,17 +51,25 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.DotNet.ILCompiler": {
-              "suppressParent": "All",
+            "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[8.0.11, )",
-              "autoReferenced": true
+              "version": "[17.8.0, )"
             },
-            "Microsoft.NET.ILLink.Tasks": {
-              "suppressParent": "All",
+            "NUnit": {
               "target": "Package",
-              "version": "[8.0.11, )",
-              "autoReferenced": true
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -75,12 +83,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
-              "version": "[8.0.11, 8.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

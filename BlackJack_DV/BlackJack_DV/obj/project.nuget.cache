@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sErho6x5FSU=",
+  "dgSpecHash": "GEDkB7bCDWE=",
   "success": true,
-  "projectFilePath": "C:\\Suli\\12.osztaly\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj",
+  "projectFilePath": "H:\\2024-25\\Szoftverteszteles\\BlackJack_DV\\BlackJack_DV\\BlackJack_DV.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\detar\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.15\\microsoft.dotnet.ilcompiler.8.0.15.nupkg.sha512",
-    "C:\\Users\\detar\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.15\\microsoft.net.illink.tasks.8.0.15.nupkg.sha512",
-    "C:\\Users\\detar\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.15\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.15.nupkg.sha512"
+    "C:\\Users\\detari.viktoria\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.11\\microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512",
+    "C:\\Users\\detari.viktoria\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.11\\microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
+    "C:\\Users\\detari.viktoria\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.11\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512"
   ],
   "logs": []
 }
