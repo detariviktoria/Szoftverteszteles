@@ -22,10 +22,10 @@ namespace BlackJack_DV
             int totalValue = Cards.Sum(card => card.GetValue());
             int aceCount = Cards.Count(card => card.Face == "A");
 
-            // Ász(okat) 1-nek vesszük, ha túllépjük a 21-et
+            // 1-nek vesszuk az aszokat ha tullepi a 21-et
             while (totalValue > 21 && aceCount > 0)
             {
-                totalValue -= 10; // Egy Ász 11 helyett csak 1-et ér
+                totalValue -= 10; 
                 aceCount--;
             }
             return totalValue;
